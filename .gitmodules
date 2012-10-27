@@ -1,3 +1,6 @@
 [submodule "child"]
 	path = child
 	url = https://github.com/Contact2012/child.git
+[submodule "halo/anotherson"]
+	path = halo/anotherson
+	url = https://github.com/Contact2012/son.git
